@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+.header {
+    height: 90px;
+    background-color: #683053;
+    color: #FFFFFF;
+    padding: 35px;
+    text-align: center;
+}
+
+.header_link {
+    display: inline;
+    margin: 20px 40px;
+}
+
+section {
+    background-color: #61aa9a;
+}
+
+.itens {
+    height: 600px;
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.objeto {
+    display: inline-block;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+
+.valor {
+    margin-top: 20px;
+    text-decoration: overline;
+}
+
+.inform {
+    display: block;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #cad7b1;
+    height: 100px;
+    padding: 20px;
+    color: black;
+}
+
+.cadastro {
+    margin-left: 20px;
+}
+
+.formulario {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.form_item {
+    padding-right: 8px;
+    padding-left: 20px;
+}
